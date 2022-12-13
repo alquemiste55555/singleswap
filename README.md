@@ -1,3 +1,3 @@
-# SimpleSwap
+# SingleSwap
 
-`SimpleSwap.sol`  implements uses the Uniswap V3 ISwapRouter interface for executing token swaps from Uniswap liquidity pools. 
+`SingleSwap.sol` uses the Uniswap V3 ISwapRouter interface to execute token swaps to/from Uniswap liquidity pools. 
